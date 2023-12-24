@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>itil</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>yaron.rabinovich</sys_created_by>
+        <sys_created_on>2023-12-04 06:57:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>146fa81397b671104ce032f6f053af0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MOT Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MOT Demo" source="x_672025_mot_demo">7c8820d7977671104ce032f6f053af8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MOT Demo">7c8820d7977671104ce032f6f053af8c</sys_scope>
+        <sys_update_name>sys_app_application_146fa81397b671104ce032f6f053af0c</sys_update_name>
+        <sys_updated_by>yaron.rabinovich</sys_updated_by>
+        <sys_updated_on>2023-12-04 06:57:03</sys_updated_on>
+        <title>MOT Request</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

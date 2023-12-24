@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_environment">
+    <sn_pipeline_environment action="INSERT_OR_UPDATE">
+        <instance_credential display_value="sn_xtm_spoke.XTM_TMS">5afcc48673521010395108b24ff6a7b4</instance_credential>
+        <instance_id>Validation Failed: Failure code:401</instance_id>
+        <instance_type>dev</instance_type>
+        <instance_url>https://dev114173.service-now.com/</instance_url>
+        <is_controller>false</is_controller>
+        <name>Yaron</name>
+        <sys_class_name>sn_pipeline_environment</sys_class_name>
+        <sys_created_by>yaron.rabinovich</sys_created_by>
+        <sys_created_on>2023-12-04 07:18:07</sys_created_on>
+        <sys_id>10043cd797b671104ce032f6f053af76</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Yaron</sys_name>
+        <sys_package display_value="MOT Demo" source="x_672025_mot_demo">7c8820d7977671104ce032f6f053af8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MOT Demo">7c8820d7977671104ce032f6f053af8c</sys_scope>
+        <sys_update_name>sn_pipeline_environment_10043cd797b671104ce032f6f053af76</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-05 04:00:08</sys_updated_on>
+    </sn_pipeline_environment>
+</record_update>

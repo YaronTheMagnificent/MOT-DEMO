@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_pipeline">
+    <sn_pipeline_pipeline action="DELETE">
+        <active>true</active>
+        <name>App Engine</name>
+        <pipeline_type display_value="Application Deployment">268f9c0fb73430100290b9708e11a9de</pipeline_type>
+        <source_environment display_value="Yaron">10043cd797b671104ce032f6f053af76</source_environment>
+        <sys_class_name>sn_pipeline_pipeline</sys_class_name>
+        <sys_created_by>yaron.rabinovich</sys_created_by>
+        <sys_created_on>2023-12-04 07:18:51</sys_created_on>
+        <sys_id>a664341b97b671104ce032f6f053af7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App Engine</sys_name>
+        <sys_package display_value="MOT Demo" source="x_672025_mot_demo">7c8820d7977671104ce032f6f053af8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MOT Demo">7c8820d7977671104ce032f6f053af8c</sys_scope>
+        <sys_update_name>sn_pipeline_pipeline_a664341b97b671104ce032f6f053af7f</sys_update_name>
+        <sys_updated_by>yaron.rabinovich</sys_updated_by>
+        <sys_updated_on>2023-12-04 07:18:51</sys_updated_on>
+    </sn_pipeline_pipeline>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MOT Demo">7c8820d7977671104ce032f6f053af8c</application>
+        <file_path/>
+        <instance_id>709a19781bcc78107d9d2f8dee4bcbba</instance_id>
+        <instance_name>dev114173</instance_name>
+        <name>sn_pipeline_pipeline_a664341b97b671104ce032f6f053af7f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_pipeline"><sn_pipeline_pipeline action="INSERT_OR_UPDATE"><active>true</active><name>App Engine</name><pipeline_type display_value="Application Deployment">268f9c0fb73430100290b9708e11a9de</pipeline_type><source_environment display_value="Yaron">10043cd797b671104ce032f6f053af76</source_environment><sys_class_name>sn_pipeline_pipeline</sys_class_name><sys_created_by>yaron.rabinovich</sys_created_by><sys_created_on>2023-12-04 07:18:51</sys_created_on><sys_id>a664341b97b671104ce032f6f053af7f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>App Engine</sys_name><sys_package display_value="MOT Demo" source="x_672025_mot_demo">7c8820d7977671104ce032f6f053af8c</sys_package><sys_policy/><sys_scope display_value="MOT Demo">7c8820d7977671104ce032f6f053af8c</sys_scope><sys_update_name>sn_pipeline_pipeline_a664341b97b671104ce032f6f053af7f</sys_update_name><sys_updated_by>yaron.rabinovich</sys_updated_by><sys_updated_on>2023-12-04 07:18:51</sys_updated_on></sn_pipeline_pipeline></record_update>]]></payload>
+        <payload_hash>-848622831</payload_hash>
+        <record_name>App Engine</record_name>
+        <reverted_from/>
+        <source>7c8820d7977671104ce032f6f053af91</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>yaron.rabinovich</sys_created_by>
+        <sys_created_on>2023-12-04 07:18:51</sys_created_on>
+        <sys_id>1c84f89797b671104ce032f6f053afa8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c33b1ad590000001</sys_recorded_at>
+        <sys_updated_by>yaron.rabinovich</sys_updated_by>
+        <sys_updated_on>2023-12-04 07:18:51</sys_updated_on>
+        <type>Pipeline</type>
+        <update_guid>5084f89721b67110c794632fcdd655a8</update_guid>
+        <update_guid_history>5084f89721b67110c794632fcdd655a8:-848622831</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="App Engine">2735345b97b671104ce032f6f053af29</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>yaron.rabinovich</sys_created_by>
+        <sys_created_on>2023-12-04 07:22:04</sys_created_on>
+        <sys_db_object display_value="" name="sn_pipeline_pipeline">sn_pipeline_pipeline</sys_db_object>
+        <sys_id>057bf7b2e4524c91861fb51e686296c9</sys_id>
+        <sys_metadata>a664341b97b671104ce032f6f053af7f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App Engine</sys_name>
+        <sys_package display_value="MOT Demo" source="x_672025_mot_demo">7c8820d7977671104ce032f6f053af8c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MOT Demo">7c8820d7977671104ce032f6f053af8c</sys_scope>
+        <sys_scope_delete display_value="">10605147f86343d090f2db692935aa40</sys_scope_delete>
+        <sys_update_name>sn_pipeline_pipeline_a664341b97b671104ce032f6f053af7f</sys_update_name>
+        <sys_update_version display_value="sn_pipeline_pipeline_a664341b97b671104ce032f6f053af7f">1c84f89797b671104ce032f6f053afa8</sys_update_version>
+        <sys_updated_by>yaron.rabinovich</sys_updated_by>
+        <sys_updated_on>2023-12-04 07:22:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
